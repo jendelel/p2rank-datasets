@@ -4033,7 +4033,8 @@ holo4k/1wht.pdb
 holo4k/1wq1.pdb
 holo4k/1xan.pdb
 holo4k/1xel.pdb
-holo4k/1xgf.pdb
+#not a ligand binding protein
+#holo4k/1xgf.pdb
 holo4k/1xid.pdb
 holo4k/1xie.pdb
 holo4k/1xig.pdb

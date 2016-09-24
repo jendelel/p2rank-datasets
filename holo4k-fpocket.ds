@@ -4036,7 +4036,8 @@ holo4k/fpocket/1wht_out/1wht_out.pdb    holo4k/1wht.pdb
 holo4k/fpocket/1wq1_out/1wq1_out.pdb    holo4k/1wq1.pdb
 holo4k/fpocket/1xan_out/1xan_out.pdb    holo4k/1xan.pdb
 holo4k/fpocket/1xel_out/1xel_out.pdb    holo4k/1xel.pdb
-holo4k/fpocket/1xgf_out/1xgf_out.pdb    holo4k/1xgf.pdb
+#not a ligand binding protein
+#holo4k/fpocket/1xgf_out/1xgf_out.pdb    holo4k/1xgf.pdb
 holo4k/fpocket/1xid_out/1xid_out.pdb    holo4k/1xid.pdb
 holo4k/fpocket/1xie_out/1xie_out.pdb    holo4k/1xie.pdb
 holo4k/fpocket/1xig_out/1xig_out.pdb    holo4k/1xig.pdb
