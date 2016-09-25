@@ -1,7 +1,6 @@
 # benchmark 2011 dataset
 
 PARAM.LIGANDS_SEPARATED_BY_TER=true
-PARAM.INCLUDE_COFACTORS=true
 
 # liganded-pdb-file 
 

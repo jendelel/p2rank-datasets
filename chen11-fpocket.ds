@@ -1,9 +1,7 @@
 # benchmark 2011 dataset
 
-PARAM.METHOD=fpocket
-
 PARAM.LIGANDS_SEPARATED_BY_TER=true
-PARAM.INCLUDE_COFACTORS=true
+PARAM.METHOD=fpocket
 
 #   pocket-prediction-output-pdb  liganded-pdb-file 
 
